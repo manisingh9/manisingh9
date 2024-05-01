@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manisingh9
-- 👀 I’m interested in web developing also in females cause i am straight lol
+- 👀 I’m interested in web developing.
 - 🌱 I’m currently learning python, javascript, hmtl, css
 - 💞️ I’m looking to collaborate on i am beginner
 - 📫 How to reach me inbox me lol
